@@ -48,10 +48,12 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-"C:\Users\admin\Documents\5.4 image.jpg"
-"C:\Users\admin\Documents\5.2 image.jpg"
-"C:\Users\admin\Documents\5.3image.jpg"
-"C:\Users\admin\Documents\5.4 image.jpg"
+
+![WhatsApp Image 2024-12-12 at 13 47 17_6afc42fb](https://github.com/user-attachments/assets/f8473529-0972-4fbd-8286-33a975e876b8)
+![WhatsApp Image 2024-12-12 at 13 47 31_70e2e891](https://github.com/user-attachments/assets/e378c904-7f7f-4e4c-ac5b-d61a21683381)
+![WhatsApp Image 2024-12-12 at 13 48 45_9b9540e3](https://github.com/user-attachments/assets/5ed46dee-aa28-4248-acb6-c583145c8f3f)
+![WhatsApp Image 2024-12-12 at 13 47 48_d5a24244](https://github.com/user-attachments/assets/29e3fdbf-a3e9-4680-9882-25672e90e9c7)
+
 ![Screenshot 2024-12-12 133544](https://github.com/user-attachments/assets/13987d90-8738-4749-b614-d8388f0e7858)
 ## Output:
 
